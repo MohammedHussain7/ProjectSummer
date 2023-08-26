@@ -1,0 +1,24 @@
+.size{
+    max-width: 45%;
+    max-height: 20%;
+    display: inline-block;    
+    margin: 1em;
+
+}
+
+body{
+text-align: right;}
+.down{
+    padding: 100px;
+}
+.photo{
+    max-width: 720px;
+    max-height: 520px;
+}
+.top{
+padding: auto;
+}
+.leftCor{
+    position: relative;
+    left: -425px;
+}

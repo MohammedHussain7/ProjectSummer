@@ -1,0 +1,6 @@
+body{
+    text-align: right;
+}
+div.form-inline label.col-md-4{
+    justify-content: flex-end;
+}
